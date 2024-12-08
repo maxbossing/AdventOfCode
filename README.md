@@ -1,1 +1,1 @@
-AdventOfCode Solutions using Kotlin Notebooks
+AdventOfCode Solutions using Kotlin

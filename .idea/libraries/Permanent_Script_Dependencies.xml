@@ -4,6 +4,26 @@
       <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2024.2/kotlinNotebook/adventofcode.8c5cbd36/kernels/0.12.0-291/kotlin-jupyter-ide-classpath-shadowed-jar/kotlin-jupyter-ide-classpath-shadowed-0.12.0-291.jar" />
       <root url="file://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib/2.0.20/kotlin-stdlib-2.0.20.jar" />
       <root url="file://$MAVEN_REPOSITORY$/org/jetbrains/annotations/13.0/annotations-13.0.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/2.0.20/7388d355f7cceb002cd387ccb7ab3850e4e0a07f/kotlin-stdlib-2.0.20.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.ajalt.mordant/mordant-jvm/3.0.0/ce34373aa2e8f4ab8c3f229615676e7da88de2ad/mordant-omnibus-jvm.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.ajalt.mordant/mordant-core-jvm/3.0.0/c1e712a55e6ca965522a809fef068d036a7600b7/mordant-jvm.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.ajalt.colormath/colormath-jvm/3.6.0/d5593e3f07b2447bec0b17f5cb7141a0f0de9688/colormath-jvm.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.ajalt.mordant/mordant-jvm-jna-jvm/3.0.0/bde15ea7842e9b77dec187390cde07bf6c15b14d/mordant-jvm-jna-jvm.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.ajalt.mordant/mordant-jvm-ffm-jvm/3.0.0/96a8677a522395ae552719cfd050d5b9a47ecd8e/mordant-jvm-ffm-jvm.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.ajalt.mordant/mordant-jvm-graal-ffi-jvm/3.0.0/e5c456bbad024da819bffde07a223ae6cb9582a3/mordant-jvm-graal-ffi-jvm.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.java.dev.jna/jna/5.14.0/67bf3eaea4f0718cb376a181a629e5f88fa1c9dd/jna-5.14.0.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test/2.0.20/fe89877dbb62d1fcca6d4a70f18c15818164a4b4/kotlin-test-2.0.20.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.assertj/assertj-core/3.26.3/d26263eb7524252d98e602fc6942996a3195e29/assertj-core-3.26.3.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.bytebuddy/byte-buddy/1.14.18/81e9b9a20944626e6757b5950676af901c2485/byte-buddy-1.14.18.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test-junit5/2.0.20/68887f3893870934efdf6aacb661f154bfaf21a/kotlin-test-junit5-2.0.20.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-api/5.10.1/eb90c7d8bfaae8fdc97b225733fcb595ddd72843/junit-jupiter-api-5.10.1.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-commons/1.10.1/2bfcd4a4e38b10c671b6916d7e543c20afe25579/junit-platform-commons-1.10.1.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.opentest4j/opentest4j/1.3.0/152ea56b3a72f655d4fd677fc0ef2596c3dd5e6e/opentest4j-1.3.0.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apiguardian/apiguardian-api/1.1.2/a231e0d844d2721b0fa1b238006d15c6ded6842a/apiguardian-api-1.1.2.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-launcher/1.10.1/ce85bf5e38bee0989ded9bd468dd4ff78dc0cfa8/junit-platform-launcher-1.10.1.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-engine/5.10.1/6c9ff773f9aa842b91d1f2fe4658973252ce2428/junit-jupiter-engine-5.10.1.jar" />
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-engine/1.10.1/f32ae4af74fde68414b8a3d2b7cf1fb43824a83a/junit-platform-engine-1.10.1.jar" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
