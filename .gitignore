@@ -35,3 +35,6 @@ bin/
 build/
 */build/
 .gradle
+
+### Java ###
+*.hprof
